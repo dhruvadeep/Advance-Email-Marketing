@@ -1,0 +1,37 @@
+{
+  "name": "advance_email_marketing",
+  "version": "1.0.0",
+  "description": "A powerful and versatile email marketing platform with a whole ecosystem that you need to grow your business upto 1M",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhruvadeep/Advance-Email-Marketing.git"
+  },
+  "keywords": [
+    "email marketing",
+    "marketing platform",
+    "email campaigns",
+    "business growth",
+    "marketing automation",
+    "campaign management",
+    "1M business",
+    "email outreach",
+    "customer engagement",
+    "email analytics",
+    "email templates",
+    "marketing ecosystem",
+    "business development",
+    "advanced email tools",
+    "email strategy",
+    "marketing suite"
+  ],
+  "author": "Dhruvadeep Malakar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dhruvadeep/Advance-Email-Marketing/issues"
+  },
+  "homepage": "https://github.com/dhruvadeep/Advance-Email-Marketing#readme"
+}
